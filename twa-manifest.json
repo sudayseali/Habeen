@@ -1,0 +1,57 @@
+{
+  "packageId": "app.vercel.shaqohubguuleed.twa",
+  "host": "shaqohubguuleed.vercel.app",
+  "name": "ShaqoHub - Raadista Shaqooyin",
+  "launcherName": "ShaqoHub",
+  "display": "fullscreen",
+  "themeColor": "#6366F1",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": true,
+  "startUrl": "/index.html",
+  "iconUrl": "https://shaqohubguuleed.vercel.app/512.png",
+  "maskableIconUrl": "https://shaqohubguuleed.vercel.app/512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/root/ShaqoHub/android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [
+    {
+      "name": "Raadi Shaqo",
+      "shortName": "Raadi Shaqo",
+      "url": "https://shaqohubguuleed.vercel.app/index.html#tasks",
+      "chosenIconUrl": "https://shaqohubguuleed.vercel.app/192.png"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://shaqohubguuleed.vercel.app/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://shaqohubguuleed.vercel.app/",
+  "minSdkVersion": 21,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "",
+  "displayOverride": [
+    "fullscreen",
+    "standalone"
+  ],
+  "appVersion": "1"
+}
